@@ -1,0 +1,6 @@
+./echo.js 'hello world'
+./cat.js helloworld.txt 
+./touch.js helloworld.txt
+./ls.js
+./mkdir.js newdir
+./rm.js newer

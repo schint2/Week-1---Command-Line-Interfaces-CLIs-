@@ -1,11 +1,8 @@
-# Week-1---Command-Line-Interfaces-CLIs-
-Week 1 - Command Line Interfaces (CLIs) -Oct 12 2016
-
 # CLI Utilities
 
 This is a CLI Utilities library for Node.js.
 
-Time spent: 10 Hours
+Time spent: 5 Hours
 
 ## Features
 

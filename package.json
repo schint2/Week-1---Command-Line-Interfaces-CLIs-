@@ -1,0 +1,20 @@
+{
+  "name": "proxyserver",
+  "version": "1.0.0",
+  "description": "a smaple proxy server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sudheer Chintala",
+  "license": "WMT LEARNING",
+  "dependencies": {
+    "request": "^2.74.0",
+    "yargs": "^3.32.0"
+  },
+  "devDependencies": {
+    "babel-preset-nodev6": "^1.0.0",
+    "songbird": "^1.0.4",
+    "trycatch": "^1.5.21"
+  }
+}
