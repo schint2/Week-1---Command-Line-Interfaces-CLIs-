@@ -26,3 +26,4 @@ Time spent: 5 Hours
 
 ## Walkthrough Gif:
 
+https://github.com/schint2/Week-1---Command-Line-Interfaces-CLIs-/blob/master/cls.gif
